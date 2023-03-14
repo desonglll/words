@@ -2,6 +2,16 @@
 title: README
 ---
 
+## Remember words using ChatGPT
+
+["Link of ChatGPT"]("https://chat.openai.com")
+
+```
+
+Write a story of 100 words using the following words. Then, translate the story into Chinese.
+
+```
+
 ## Necessary codes for SQL
 
 ```sql
