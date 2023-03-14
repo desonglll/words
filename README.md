@@ -26,3 +26,6 @@ FROM
 	AND V.book_origin_id IN ( SELECT origin_id FROM BK_TB WHERE name = '2024恋练有词考研英语词汇' )) AS tmp ON VOC_TB.origin_id = tmp.voc_id
 
 ```
+
+https://blog.csdn.net/qq1515312832/article/details/107971308
+
